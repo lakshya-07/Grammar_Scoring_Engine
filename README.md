@@ -42,13 +42,11 @@ This repository implements a **hybrid grammar-scoring engine** that automaticall
 
 ---
 
-```
 **Evaluation (5‑fold CV):**  
 - RMSE: **0.7190**  
-- Pearson Correlation: **0.5873**  
-```
-
-
+- Pearson Correlation: **0.5873**
+  
+---
 ## 🔧 Next Steps
 
 * Incorporate audio-fluency features (pause durations, speaking rate)
