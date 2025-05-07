@@ -13,13 +13,7 @@ This repository implements a **hybrid grammar-scoring engine** that automaticall
    cd grammar-scoring-engine
    ```
 
-2. **Install dependencies**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Download data via Kaggle API**
+2. **Download data via Kaggle API**
 
    ```bash
    mkdir -p data
