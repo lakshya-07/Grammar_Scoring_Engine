@@ -40,8 +40,6 @@ This repository implements a **hybrid grammar-scoring engine** that automaticall
 6. **Deep Learning**: Fine‑tune DistilBERT for regression → `bert_pred`.
 7. **Meta‑Stacking**: Ridge regressor combines `[feature_pred, bert_pred]` → final score.
 
----
-
 **Evaluation (5‑fold CV):**  
 - RMSE: **0.7190**  
 - Pearson Correlation: **0.5873**
